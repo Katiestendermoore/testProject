@@ -7,3 +7,20 @@ body{
     background-color: #fafafa;
 }
 
+header{
+    width:100%;
+    margin:0px;
+    padding: 0px;
+    padding-right: 2%;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    position: fixed;
+}
+
+header div {
+    display: flex;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    margin-top: auto;
+    margin-bottom: auto;
+}
